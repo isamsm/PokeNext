@@ -1,0 +1,17 @@
+.footercontainer {
+    display: flex;
+    align-items: center;
+    position: fixed;
+    justify-content: center;
+    height: 3em;
+    background-color: #333;
+    margin-top: 2em;
+    border-top: 3px solid #111;
+    color: white;
+    bottom: 0;
+    width: 100%;
+}
+
+.footercontainer span {
+    font-weight: bold;
+}

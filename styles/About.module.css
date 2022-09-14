@@ -1,0 +1,22 @@
+.aboutcontainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 0.4em;
+}
+
+.aboutcontainer h1 {
+    padding-bottom: 0.5em;
+    color: rgb(0, 107, 139);
+    font-weight: bold;
+}
+
+.aboutcontainer p {
+    padding-bottom: 1em;
+    color: rgb(239, 155, 0);
+    font-size: 0.9em;
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
